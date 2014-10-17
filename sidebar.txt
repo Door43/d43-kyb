@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyb:home|Door43 (kyb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyb|d43-kyb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyb/archive/master.zip|d43-kyb.zip]]
+
+**Recent Changes**
+{{changes>ns = kyb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyb|Ethnologue data]]
+
